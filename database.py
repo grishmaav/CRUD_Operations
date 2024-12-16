@@ -1,5 +1,5 @@
 from pymongo import MongoClient
 
-# Replace with your MongoDB connection string
-client = MongoClient("mongodb://localhost:27017")
+
+client = MongoClient("mongodb://localhost: ")
 db = client.student_database
