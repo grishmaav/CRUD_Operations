@@ -4,11 +4,15 @@ This project showcases a fully functional CRUD (Create, Read, Update, Delete) AP
 
 # # Features
 **FastAPI Framework**:
-Utilizes the modern, fast (high-performance) web framework FastAPI to handle HTTP requests efficiently.Asynchronous capabilities for enhanced performance.
+- Utilizes the modern, fast (high-performance) web framework FastAPI to handle HTTP requests efficiently.
+- Asynchronous capabilities for enhanced performance.
+
 **MongoDB Integration**:
-Implements MongoDB for a flexible and scalable database solution.Utilizes PyMongo for database operations.
+- Implements MongoDB for a flexible and scalable database solution.
+- Utilizes PyMongo for database operations.
+
 **CRUD Operations**:
-Create: Add new student records to the database.
-Read: Retrieve student details by student_id.
-Update: Modify existing student information.
-Delete: Remove student records from the database.
+- Create: Add new student records to the database.
+- Read: Retrieve student details by student_id.
+- Update: Modify existing student information.
+- Delete: Remove student records from the database.
