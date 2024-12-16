@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from models import Student
 
-# Replace with your MongoDB connection string
+
 client = MongoClient("mongodb://localhost:27017")
 db = client.student_database
 collection = db.students
